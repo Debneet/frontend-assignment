@@ -1,0 +1,196 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.navbar {
+  background-color: #ff7171;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5rem;
+}
+
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+  margin-top: 0.5cm;
+}
+
+.navbar ul li {
+  margin: 0 1rem;
+}
+
+
+.navbar ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar ul li  {
+
+  display: inline;
+  list-style-type: none;
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin: 0 1rem 0 1rem;
+
+}
+
+.navbar ul li a:hover {
+  color: white; 
+}
+
+.fa-reorder {
+  font-size: 2rem;
+  margin-top: -0.19cm;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  background-image: linear-gradient(
+    to right bottom,
+    #fff6af,
+    #ffdfa7,
+    #ffc9b5,
+    #ffb9d0,
+    #ffb4ee
+  );
+}
+.col1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.col {
+  width: 50%;
+  height: 90vh;
+  text-align: center;
+}
+.col .desc {
+  display: block;
+  font-family: "Oswald", sans-serif;
+  text-align: left;
+  margin-left: 1rem;
+  width: 150%;
+}
+.col2 {
+  display: block;
+  overflow: hidden;
+}
+.col2 img {
+  position: relative;
+  height: 50vh;
+  width: 31rem;
+  left: -6rem;
+  zoom: 2;
+}
+.hero-heading {
+  display: block;
+  font-size: 3rem;
+  font-weight: 500;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+  margin-bottom: 2rem;
+}
+.cta-box {
+  background-color: #ff6666;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: white;
+  text-align: left;
+}
+
+.cta-button {
+  background-color: #ff6666;
+  color: white;
+  padding: 15px 85px;
+  font-size: 16px;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  margin-top: 50px;
+  margin-left: -11rem
+}
+
+.cta-button:hover {
+  color: black;
+}
+
+.img1 img {
+  width: 240px;
+  height: 200px;
+}
+.img2 img {
+  width: 260px;
+  height: 420px;
+}
+
+.outer-section {
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+  width: 50%;
+}
+.outer-section img {
+  padding: 0.5rem;
+}
+
+.sec-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+}
+.sec-row .heading {
+  font-size: 1rem;
+  font-family: "Oswald", sans-serif;
+}
+.sec-row .lower-heading {
+  font-size: 3rem;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0.3rem;
+  font-weight: 500;
+}
+.sec-row .click {
+  padding-top: 1rem;
+  font-family: "Oswald", sans-serif;
+}
+
+.sec-row .click:hover {
+  color: white;
+}
+
+.sec-row .click img {
+  margin-left: 0.1rem;
+  margin-bottom: -1rem;
+}
+
+.sec-row {
+  background-color: #ff7171;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+  width: 60%; 
+  margin-left: 0rem;
+  margin-right: 2; 
+}
+.second-block {
+  display: flex;
+  flex-direction: row;
+  background-image: linear-gradient(
+    to right bottom,
+    #fff6af,
+    #ffdfa7,
+    #ffc9b5,
+    #ffb9d0,
+    #ffb4ee
+  );
+}
+/* Assignment by Debneet Balabantaray - ENG20CS0422 */
