@@ -15,7 +15,7 @@ The project structure is organized as follows:
 
 - **`index.html`:** The main HTML file for the website.
 - **`styles.css`:** The CSS file containing the styling for the website.
-- **`assets/`:** Directory containing images and other static assets.
+- **`images/`:** Directory containing images and other static assets.
 
 ## Running the Project
 
