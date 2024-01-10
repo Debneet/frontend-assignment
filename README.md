@@ -1,8 +1,8 @@
-# Simplotel Front-End Web Developer Assignment
+# Front-End Assignment
 
 ## Assignment Description
 
-This repository contains the code for my submission to the Simplotel Front-End Web Developer Assignment. The assignment involved building a website using HTML and CSS to showcase front-end development skills.
+This repository contains the code for my submission Front-End Assignment. The assignment involved building a website using HTML and CSS to showcase front-end development skills.
 
 ## Developer Information
 
@@ -25,10 +25,6 @@ To view the website, simply open the `index.html` file in a web browser.
 
 - HTML
 - CSS
-
-## Acknowledgments
-
-I would like to express my gratitude to Simplotel for providing this assignment opportunity.
 
 Feel free to explore the code and provide feedback!
 
